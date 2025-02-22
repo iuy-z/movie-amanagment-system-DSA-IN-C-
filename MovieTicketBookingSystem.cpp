@@ -3,11 +3,11 @@
 PROJECT TITLE: MOVIE TICKET BOOKING SYSTEM (ADMIN/USER)
 THIS PROJECT IS PROGRAMMED BY
 NAME:IRUM IMTIAZ
-REG.NO: FA22-BCT-011
+
 
 DESCRIBTION: i have used vector,queue,unordered map in order to make this system
              efficient also i have used merge algorithm which will set tickets according to
-             seats numbers
+             seat numbers
 */
 
 #include <iostream>
