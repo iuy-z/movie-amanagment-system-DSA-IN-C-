@@ -1,4 +1,4 @@
-# movie-amanagment-system-DSA-IN-C++
+
 # Movie Ticket Booking System
 
 ## Overview
